@@ -15,12 +15,15 @@ Just pick a task, talk to other people that participate in it, write some code, 
 ## Tasks
 
 **Task 1 The Human Evaluation Tinder**
+
 Human evaluation is a nightmare of spreadsheets and bored annotators. Let's turn it into a swipe-based mobile app. Build the interface, curate the swipe decks. You can evaluate the outputs produced by Tasks 2 and 3 later. Task directory `task1-tinder/`.
 
 **Task 2 The Classical Pipeline Strikes Back**
+
 Build a classical, deterministic NLG pipeline using rules, templates, or grammars to generate game descriptions from game metadata. For extra fun, tailor the descriptions to a specific player profile, such as a budget Linux gamer. Make zero hallucinations with good old-fashioned linguistics and software engineering. Task directory `task2-classical/`.
 
 **Task 3 The Qualitative Vibe Check**
+
 Embrace LLMs for qualitative reasoning. Use patterns and trends in the dataset to generate meaningful insights about games. Don't list statistics, tell us what the numbers mean. For example, if a ten-year-old game still has 100,000 daily players, call it a cult classic. Task directory `task3-qualitative/`.
 
 ## Data
