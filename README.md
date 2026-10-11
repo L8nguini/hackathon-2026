@@ -4,7 +4,7 @@ Welcome to the hackathon repository for the [YNLG Workshop 2026](https://ynlg-wo
 
 ## How to Participate
 
-Just pick a task, talk to other people that participate in it, write some code, and show us what you built.
+Just pick a task, talk to other people that participate in it, write some code, and show us what you've built.
 
 0. Read [more about the tasks here](https://docs.google.com/document/d/1Gs5jmrO2RU0eq5e_JRFUPbMei2dcuUUlkLN4qH0tinM/edit?usp=sharing) and add your name to a project you will work on.
 1. Fork this repository.
