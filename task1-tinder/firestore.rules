@@ -1,0 +1,42 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    function d() { return request.resource.data; }
+
+    function validAnnotation(teamName) {
+      return request.auth != null
+        // team must be registered by the organizers (document teams/{teamName})
+        && exists(/databases/$(database)/documents/teams/$(teamName))
+        && d().keys().hasAll([
+             'item_id', 'team_name', 'annotator_id',
+             'is_correctness_applicable', 'is_response_a_correct',
+             'is_response_b_correct', 'winner',
+             'response_latency', 'created_at'])
+        && d().team_name == teamName
+        && d().item_id is string && d().item_id.size() > 0 && d().item_id.size() <= 100
+        && d().annotator_id is string && d().annotator_id.size() >= 8 && d().annotator_id.size() <= 64
+        && d().is_correctness_applicable is bool
+        // correctness of a response: true / false, or null if not rated
+        && (d().is_response_a_correct == null || d().is_response_a_correct is bool)
+        && (d().is_response_b_correct == null || d().is_response_b_correct is bool)
+        // if correctness is not applicable, no correctness ratings
+        && (d().is_correctness_applicable == true
+            || (d().is_response_a_correct == null && d().is_response_b_correct == null))
+        // winner: null if the comparison was not asked
+        && (d().winner == null || d().winner in ['model_a', 'model_b', 'tie', 'both_bad'])
+        && d().response_latency is int && d().response_latency >= 0
+        && d().created_at == request.time;
+    }
+
+    // Annotations are create-only; apps cannot read, change or delete anything
+    match /annotations/{teamName}/entries/{docId} {
+      allow create: if validAnnotation(teamName);
+      allow read, update, delete: if false;
+    }
+
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}
