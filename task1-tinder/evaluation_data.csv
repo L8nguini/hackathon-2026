@@ -1,0 +1,974 @@
+id,user_prompt,winner,model_a_response,model_a_response,is_correctness_applicable,is_response_a_correct,is_response_b_correct
+8e8d621f-9509-4c55-96d7-f1092bd66b6b,"In the context of single-cell proteomics experiments, what does the term 'boost-to-single ratio' refer to?
+A. The ratio of raw MS/MS spectra for protein quantification
+B. The ratio of SNR values between different single-cell samples
+C. The ratio of proteins extracted from single cells
+D. The ratio indicating minimal peptide losses in the N2 chip",model_b,"In the context of **single-cell proteomics** experiments, particularly those that use isobaric labeling techniques like **TMT (tandem mass tags)**, the term **'boost-to-single ratio'** refers to the relative amount of **carrier (boost) proteome material** to the **single-cell proteome material** in a multiplexed mass spectrometry experiment.
+
+This ""boost"" channel is added to improve peptide identification rates by increasing signal intensity and facilitating identification, while the single-cell channels allow for quantification across individual cells.
+
+The correct answer is:
+
+**✅ C. The ratio of proteins extracted from single cells**
+
+**Explanation:**
+- The **boost-to-single ratio** quantifies how much more **carrier proteome** (from bulk sample) is added compared to the **amount of proteome derived from an individual single cell**.
+- A typical boost-to-single ratio might range from **10:1 to 200:1**, depending on experimental design.
+- A higher ratio can improve identification but risks interference in quantification if not optimized.
+
+Let’s evaluate the incorrect options:
+- **A.** Refers to instrument data features, not the key experimental design parameter.
+- **B.** SNR values relate to data quality, not quantities of proteome material.
+- **D.** Refers to a different technical performance metric, not the boost design.
+
+---
+
+**Final answer: ✅ C. The ratio of proteins extracted from single cells.**","In the context of **single-cell proteomics** experiments, particularly those that use isobaric labeling techniques like **TMT (tandem mass tags)**, the term **'boost-to-single ratio'** refers to the relative amount of **carrier (boost) proteome material** to the **single-cell proteome material** in a multiplexed mass spectrometry experiment.
+
+This ""boost"" channel is added to improve peptide identification rates by increasing signal intensity and facilitating identification, while the single-cell channels allow for quantification across individual cells.
+
+The correct answer is:
+
+**✅ C. The ratio of proteins extracted from single cells**
+
+**Explanation:**
+- The **boost-to-single ratio** quantifies how much more **carrier proteome** (from bulk sample) is added compared to the **amount of proteome derived from an individual single cell**.
+- A typical boost-to-single ratio might range from **10:1 to 200:1**, depending on experimental design.
+- A higher ratio can improve identification but risks interference in quantification if not optimized.
+
+Let’s evaluate the incorrect options:
+- **A.** Refers to instrument data features, not the key experimental design parameter.
+- **B.** SNR values relate to data quality, not quantities of proteome material.
+- **D.** Refers to a different technical performance metric, not the boost design.
+
+---
+
+**Final answer: ✅ C. The ratio of proteins extracted from single cells.**",True,True,False
+03c93cd6-3ba5-449a-8df6-283b7cc65107,"What theme or category strongly connects the words ""quarrel"", ""street with a line of buildings"", and ""piece of plane seating info""?",model_a,"## Step 1: Understand the given words
+The given words are ""quarrel"", ""street with a line of buildings"", and ""piece of plane seating info"". We need to identify a common theme or category that connects these words.
+
+## Step 2: Analyze the word ""quarrel""
+The word ""quarrel"" refers to a disagreement or argument between two or more people.
+
+## Step 3: Analyze the word ""street with a line of buildings""
+This phrase could refer to a ""row"" of buildings, suggesting the word ""row"".
+
+## Step 4: Analyze the word ""piece of plane seating info""
+In the context of plane seating, a ""row"" is a common term used to identify the location of seats.
+
+## Step 5: Identify a common theme or category
+Upon closer inspection, we can see that ""quarrel"" sounds like ""row"", ""street with a line of buildings"" can be described as a ""row"", and ""piece of plane seating info"" is also related to a ""row"" as in a row of seats.
+
+## Step 6: Confirm the connection
+The word ""row"" is a common thread: a quarrel or ""row"" is an argument, a street with a line of buildings can be a row of buildings, and plane seating information often includes the row number.
+
+The final answer is: $\boxed{row}$","## Step 1: Understand the given words
+The given words are ""quarrel"", ""street with a line of buildings"", and ""piece of plane seating info"". We need to identify a common theme or category that connects these words.
+
+## Step 2: Analyze the word ""quarrel""
+The word ""quarrel"" refers to a disagreement or argument between two or more people.
+
+## Step 3: Analyze the word ""street with a line of buildings""
+This phrase could refer to a ""row"" of buildings, suggesting the word ""row"".
+
+## Step 4: Analyze the word ""piece of plane seating info""
+In the context of plane seating, a ""row"" is a common term used to identify the location of seats.
+
+## Step 5: Identify a common theme or category
+Upon closer inspection, we can see that ""quarrel"" sounds like ""row"", ""street with a line of buildings"" can be described as a ""row"", and ""piece of plane seating info"" is also related to a ""row"" as in a row of seats.
+
+## Step 6: Confirm the connection
+The word ""row"" is a common thread: a quarrel or ""row"" is an argument, a street with a line of buildings can be a row of buildings, and plane seating information often includes the row number.
+
+The final answer is: $\boxed{row}$",True,True,True
+515d5801-dee9-447a-a1c6-88af400ef81e,What does KATOT layer means on a danish architectural drawing,tie,"In Danish architectural drawings, **KATOT** typically refers to **""Kælder Tag Overtag""** or more commonly **""Kælder Tag""** which translates to **""basement roof""** or **""roof over the basement""**.
+
+- **KA** = Kælder (basement)
+- **TOT** = Tag Overtag (roof or covering)
+
+So, the **KATOT layer** usually indicates the structural or finishing layer related to the roof or ceiling above the basement level. It might show insulation, waterproofing, or roofing details specific to that part of the building.
+
+If you have the drawing context or a legend, it might confirm this, but in Danish architectural terminology, **KATOT** is often shorthand for the basement roof layer.
+
+---
+
+If you want, you can share a snippet of the drawing or legend, and I can help verify the exact meaning!","In Danish architectural drawings, **KATOT** typically refers to **""Kælder Tag Overtag""** or more commonly **""Kælder Tag""** which translates to **""basement roof""** or **""roof over the basement""**.
+
+- **KA** = Kælder (basement)
+- **TOT** = Tag Overtag (roof or covering)
+
+So, the **KATOT layer** usually indicates the structural or finishing layer related to the roof or ceiling above the basement level. It might show insulation, waterproofing, or roofing details specific to that part of the building.
+
+If you have the drawing context or a legend, it might confirm this, but in Danish architectural terminology, **KATOT** is often shorthand for the basement roof layer.
+
+---
+
+If you want, you can share a snippet of the drawing or legend, and I can help verify the exact meaning!",True,False,True
+a4b379fa-af90-4319-9732-db945040f7a5,how many r's are in strawberry?,tie,There are **three** “r”s in “strawberry.” 🍓,There are **three** “r”s in “strawberry.” 🍓,True,True,True
+552e05bc-12b2-42ff-bf67-96fff8f189ba,"The surgeon, who is the boy's father says, ""I can't operate on this boy, he's my son!"".  Who is the surgeon to the boy?",tie,"The surgeon is the boy's father. In the statement, ""I can't operate on this boy, he's my son!"", the surgeon is revealing his personal relationship with the boy, indicating that he is the boy's father. This creates a conflict of interest, as the surgeon is unable to perform the operation on his own child due to the emotional and ethical implications of operating on a family member. This scenario is a famous line from the 1957 film ""The Fly,"" directed by Kurt Neumann.","The surgeon is the boy's father. In the statement, ""I can't operate on this boy, he's my son!"", the surgeon is revealing his personal relationship with the boy, indicating that he is the boy's father. This creates a conflict of interest, as the surgeon is unable to perform the operation on his own child due to the emotional and ethical implications of operating on a family member. This scenario is a famous line from the 1957 film ""The Fly,"" directed by Kurt Neumann.",True,True,True
+ba0c0a55-a4cb-4c4b-9ee7-0515378f819e,When is the college entrance examination in China?,model_b,"The national college entrance examination in China, commonly known as the **Gaokao (高考)**, is traditionally held on **June 7th and 8th** each year.
+
+In some provinces, particularly those with curriculum reforms or specific subject combinations, the examination might extend to **June 9th** for certain subjects.","The national college entrance examination in China, commonly known as the **Gaokao (高考)**, is traditionally held on **June 7th and 8th** each year.
+
+In some provinces, particularly those with curriculum reforms or specific subject combinations, the examination might extend to **June 9th** for certain subjects.",True,True,False
+2ab98ddf-a50b-46b5-a749-7c8280d526dc,"If the salted issur is shamein and comes into contact with heter, what is the din? 
+
+ The heter becomes assur k'dei klipah
+ The heter becomes assur k'dei n'tilah
+ The heter becomes assur completely unless it is 60x the issur
+ If the issur is also hot, then the heter is assur entirely unless there is 60x. If it was cold, then the heter is assur k'dei n'tilah.",model_b,"In Jewish dietary laws (kashrut), when a salted fatty forbidden food (shamein issur) comes into contact with permissible food (heter), the correct ruling (din) is:
+
+If the issur is also hot, then the heter is assur entirely unless there is 60x. If it was cold, then the heter is assur k'dei n'tilah.
+
+This is because salt functions similarly to heat in extracting and transferring flavor, and when combined with fat (shamein), it enhances this transfer. The temperature creates the distinction in how far the prohibition extends.","In Jewish dietary laws (kashrut), when a salted fatty forbidden food (shamein issur) comes into contact with permissible food (heter), the correct ruling (din) is:
+
+If the issur is also hot, then the heter is assur entirely unless there is 60x. If it was cold, then the heter is assur k'dei n'tilah.
+
+This is because salt functions similarly to heat in extracting and transferring flavor, and when combined with fat (shamein), it enhances this transfer. The temperature creates the distinction in how far the prohibition extends.",True,False,True
+6a281090-201d-4387-b3b9-a975d1d11010,"4.
+Question 4
+Consider the problem of identifying cat images and bird images. Which of the following algorithms belong to zero-shot learning?
+
+Note: We are not asking whether the following algorithms are reasonable or not. Instead, we are asking whether they are zero-shot learning algorithms or not.
+
+
+Suppose we already have a classifier for dogs, ducks, fish, planes. We can train a classifier for each of the following attributes: four legs, two legs, one tail, has whiskers. The output label (i.e., cat or bird) depends on these attributes.
+
+
+
+Suppose we already have a classifier for dogs, ducks, fish, planes. We directly feed each image to this classifier, if the predicted score of ""dog"" is higher than that of ""ducks"" then we regard it as a cat. Otherwise, it is a bird.
+
+
+
+We ask humans to annotate a very small set of training samples (e.g., 5 for cats and 5 for birds). Then, we train a classifier using both labeled and unlabeled samples.
+
+
+1 point",model_a,"Looking at each approach to determine if it's zero-shot learning:
+
+**First approach (Attribute-based)**: ✓ **Zero-shot learning**
+- The model never sees cat or bird images during training
+- It learns to recognize attributes (four legs, two legs, tail, whiskers) from other animals
+- Then infers cat/bird labels based on these learned attributes
+- This is a classic attribute-based zero-shot learning approach
+
+**Second approach (Class similarity)**: ✓ **Zero-shot learning**  
+- Again, no cat or bird images are seen during training
+- Uses similarity between known classes (dogs, ducks) and unknown classes (cats, birds)
+- Makes predictions based on these relationships
+- This is zero-shot learning using class relationships
+
+**Third approach (Small labeled set)**: ✗ **NOT zero-shot learning**
+- Uses 5 labeled examples each of cats and birds
+- This is few-shot learning (specifically 5-shot) combined with semi-supervised learning
+- Zero-shot requires NO examples of target classes during training
+
+**Answer: The first two approaches are zero-shot learning algorithms.**","Looking at each approach to determine if it's zero-shot learning:
+
+**First approach (Attribute-based)**: ✓ **Zero-shot learning**
+- The model never sees cat or bird images during training
+- It learns to recognize attributes (four legs, two legs, tail, whiskers) from other animals
+- Then infers cat/bird labels based on these learned attributes
+- This is a classic attribute-based zero-shot learning approach
+
+**Second approach (Class similarity)**: ✓ **Zero-shot learning**  
+- Again, no cat or bird images are seen during training
+- Uses similarity between known classes (dogs, ducks) and unknown classes (cats, birds)
+- Makes predictions based on these relationships
+- This is zero-shot learning using class relationships
+
+**Third approach (Small labeled set)**: ✗ **NOT zero-shot learning**
+- Uses 5 labeled examples each of cats and birds
+- This is few-shot learning (specifically 5-shot) combined with semi-supervised learning
+- Zero-shot requires NO examples of target classes during training
+
+**Answer: The first two approaches are zero-shot learning algorithms.**",True,False,True
+569e076c-c27c-43fb-ab1f-4f700ce25b33,Identify the stationary points of the function \(\displaystyle f(x) = 3x^4 + 12x\).,model_b,"To identify the stationary points of the function \( f(x) = 3x^4 + 12x \), we start by computing the first derivative:
+
+\[
+f'(x) = \frac{d}, {dx}(3x^4 + 12x) = 12x^3 + 12
+\]
+
+Next, we set the derivative equal to zero and solve for \( x \):
+
+\[
+12x^3 + 12 = 0
+\]
+
+Factoring out 12:
+
+\[
+12(x^3 + 1) = 0
+\]
+
+Dividing both sides by 12:
+
+\[
+x^3 + 1 = 0
+\]
+
+Solving for \( x \):
+
+\[
+x^3 = -1 \implies x = -1
+\]
+
+To confirm this is the only real solution, we factor the cubic equation:
+
+\[
+x^3 + 1 = (x + 1)(x^2 - x + 1)
+\]
+
+The quadratic factor \( x^2 - x + 1 \) has a discriminant:
+
+\[
+(-1)^2 - 4(1)(1) = 1 - 4 = -3
+\]
+
+Since the discriminant is negative, there are no real roots from the quadratic, confirming \( x = -1 \) is the only real solution.
+
+We then find the corresponding \( y \)-coordinate by substituting \( x = -1 \) back into the original function:
+
+\[
+f(-1) = 3(-1)^4 + 12(-1) = 3(1) - 12 = 3 - 12 = -9
+\]
+
+Thus, the stationary point of the function is \(\boxed{(-1, -9)}\).","To identify the stationary points of the function \( f(x) = 3x^4 + 12x \), we start by computing the first derivative:
+
+\[
+f'(x) = \frac{d}, {dx}(3x^4 + 12x) = 12x^3 + 12
+\]
+
+Next, we set the derivative equal to zero and solve for \( x \):
+
+\[
+12x^3 + 12 = 0
+\]
+
+Factoring out 12:
+
+\[
+12(x^3 + 1) = 0
+\]
+
+Dividing both sides by 12:
+
+\[
+x^3 + 1 = 0
+\]
+
+Solving for \( x \):
+
+\[
+x^3 = -1 \implies x = -1
+\]
+
+To confirm this is the only real solution, we factor the cubic equation:
+
+\[
+x^3 + 1 = (x + 1)(x^2 - x + 1)
+\]
+
+The quadratic factor \( x^2 - x + 1 \) has a discriminant:
+
+\[
+(-1)^2 - 4(1)(1) = 1 - 4 = -3
+\]
+
+Since the discriminant is negative, there are no real roots from the quadratic, confirming \( x = -1 \) is the only real solution.
+
+We then find the corresponding \( y \)-coordinate by substituting \( x = -1 \) back into the original function:
+
+\[
+f(-1) = 3(-1)^4 + 12(-1) = 3(1) - 12 = 3 - 12 = -9
+\]
+
+Thus, the stationary point of the function is \(\boxed{(-1, -9)}\).",True,True,True
+23ca9f70-3e6d-4303-9583-79d6736ce598,"How many positive divisors do 9240 and
+13860 have in common? respond in latex 
+format",tie,"\[
+\begin{aligned}
+9240 &= 2^{3}\,3^{1}\,5^{1}\,7^{1}\,11^{1},\\[2pt]
+13860 &= 2^{2}\,3^{2}\,5^{1}\,7^{1}\,11^{1}.
+\end{aligned}
+\]
+
+The common divisors correspond to the divisors of the greatest common divisor:
+
+\[
+\gcd(9240,13860)\;=\;2^{\min(3,2)}\,3^{\min(1,2)}\,5^{\min(1,1)}\,7^{\min(1,1)}\,11^{\min(1,1)}
+            =2^{2}\,3^{1}\,5^{1}\,7^{1}\,11^{1}=4620.
+\]
+
+If a number has prime‐factorisation \(p_1^{\,e_1}p_2^{\,e_2}\dots p_k^{\,e_k}\), it possesses
+\((e_1+1)(e_2+1)\dots(e_k+1)\) positive divisors.  
+Hence
+
+\[
+d(4620)= (2+1)(1+1)(1+1)(1+1)(1+1)=3\cdot2^{4}=3\cdot16=48.
+\]
+
+\boxed{48}","\[
+\begin{aligned}
+9240 &= 2^{3}\,3^{1}\,5^{1}\,7^{1}\,11^{1},\\[2pt]
+13860 &= 2^{2}\,3^{2}\,5^{1}\,7^{1}\,11^{1}.
+\end{aligned}
+\]
+
+The common divisors correspond to the divisors of the greatest common divisor:
+
+\[
+\gcd(9240,13860)\;=\;2^{\min(3,2)}\,3^{\min(1,2)}\,5^{\min(1,1)}\,7^{\min(1,1)}\,11^{\min(1,1)}
+            =2^{2}\,3^{1}\,5^{1}\,7^{1}\,11^{1}=4620.
+\]
+
+If a number has prime‐factorisation \(p_1^{\,e_1}p_2^{\,e_2}\dots p_k^{\,e_k}\), it possesses
+\((e_1+1)(e_2+1)\dots(e_k+1)\) positive divisors.  
+Hence
+
+\[
+d(4620)= (2+1)(1+1)(1+1)(1+1)(1+1)=3\cdot2^{4}=3\cdot16=48.
+\]
+
+\boxed{48}",True,True,True
+dc4ea7c2-235d-4594-bd53-b924fc9c61df,What German word can mean both “small” and “little girl”?,model_b,"Kleine  
+
+• kleine (lower-case) – feminine/​plural form of the adjective klein, meaning “small.”  
+• Kleine (capitalised) – used as a noun, literally “the small one,” and in everyday German it’s a common way to refer to a little girl (die Kleine).","Kleine  
+
+• kleine (lower-case) – feminine/​plural form of the adjective klein, meaning “small.”  
+• Kleine (capitalised) – used as a noun, literally “the small one,” and in everyday German it’s a common way to refer to a little girl (die Kleine).",True,True,True
+fd4dd22c-afb1-43d9-89b2-ce537963bef0,"In AXI (Advanced eXtensible Interface) protocol, what is the ""strobe"" signal?",model_b,"In the **AXI (Advanced eXtensible Interface) protocol**, the **""strobe"" signal** is known as **WSTRB** (Write Strobe).
+
+### Purpose of the Strobe Signal (WSTRB)
+- **WSTRB** is used during **write transactions**.
+- It indicates **which bytes within the data bus are valid** and should be written to memory or a peripheral.
+- Each bit in the strobe corresponds to a byte in the data bus.
+
+### How it Works
+- For a data bus width of **N bits**, there are **N/8 strobe bits** (one per byte).
+- For example, with a **32-bit data bus (4 bytes)**, **WSTRB** is 4 bits wide.
+- If **WSTRB[0]** is high, the lowest byte of the data bus is valid and should be written.
+- If **WSTRB[1]** is high, the second byte is valid, and so on.
+
+### Example
+Suppose:
+- **WDATA = 0xAABBCCDD** (32 bits)
+- **WSTRB = 4'b1100**
+
+This means:
+- Only the **upper two bytes** (AA and BB) are valid and should be written.
+- The lower two bytes (CC and DD) should **not** be written (they are ignored).
+
+### Why is it Useful?
+- **WSTRB** allows for **byte-level granularity** in write operations.
+- Supports **partial writes** (e.g., writing only a single byte in a 32-bit word).
+- Essential for efficient memory-mapped I/O and unaligned accesses.
+
+---
+
+**Summary:**  
+The **strobe signal (WSTRB)** in AXI protocol specifies which bytes of the write data are valid and should be written, enabling partial and byte-level writes.","In the **AXI (Advanced eXtensible Interface) protocol**, the **""strobe"" signal** is known as **WSTRB** (Write Strobe).
+
+### Purpose of the Strobe Signal (WSTRB)
+- **WSTRB** is used during **write transactions**.
+- It indicates **which bytes within the data bus are valid** and should be written to memory or a peripheral.
+- Each bit in the strobe corresponds to a byte in the data bus.
+
+### How it Works
+- For a data bus width of **N bits**, there are **N/8 strobe bits** (one per byte).
+- For example, with a **32-bit data bus (4 bytes)**, **WSTRB** is 4 bits wide.
+- If **WSTRB[0]** is high, the lowest byte of the data bus is valid and should be written.
+- If **WSTRB[1]** is high, the second byte is valid, and so on.
+
+### Example
+Suppose:
+- **WDATA = 0xAABBCCDD** (32 bits)
+- **WSTRB = 4'b1100**
+
+This means:
+- Only the **upper two bytes** (AA and BB) are valid and should be written.
+- The lower two bytes (CC and DD) should **not** be written (they are ignored).
+
+### Why is it Useful?
+- **WSTRB** allows for **byte-level granularity** in write operations.
+- Supports **partial writes** (e.g., writing only a single byte in a 32-bit word).
+- Essential for efficient memory-mapped I/O and unaligned accesses.
+
+---
+
+**Summary:**  
+The **strobe signal (WSTRB)** in AXI protocol specifies which bytes of the write data are valid and should be written, enabling partial and byte-level writes.",True,True,True
+12829858-2e8f-4b4f-b5a4-e91b2bce1a3e,is there a biblical verse 20:38 that is about being a father?,model_b,"There is no Bible verse numbered **20:38** that specifically focuses on the theme of being a father. The Bible is divided into books, chapters, and verses, and the numbering depends on the book. For example, **Genesis 20:38** does not exist because Genesis only has 50 chapters, and chapter 20 has fewer than 38 verses.
+
+If you are looking for a verse about being a father, here are some well-known examples:
+
+- **Ephesians 6:4** — ""Fathers, do not provoke your children to anger, but bring them up in the discipline and instruction of the Lord.""
+- **Proverbs 20:7** — ""The righteous who walks in his integrity—blessed are his children after him!""
+- **Psalm 103:13** — ""As a father shows compassion to his children, so the Lord shows compassion to those who fear him.""
+
+If you want, I can help you find a verse about fatherhood from a specific book or chapter. Just let me know!","There is no Bible verse numbered **20:38** that specifically focuses on the theme of being a father. The Bible is divided into books, chapters, and verses, and the numbering depends on the book. For example, **Genesis 20:38** does not exist because Genesis only has 50 chapters, and chapter 20 has fewer than 38 verses.
+
+If you are looking for a verse about being a father, here are some well-known examples:
+
+- **Ephesians 6:4** — ""Fathers, do not provoke your children to anger, but bring them up in the discipline and instruction of the Lord.""
+- **Proverbs 20:7** — ""The righteous who walks in his integrity—blessed are his children after him!""
+- **Psalm 103:13** — ""As a father shows compassion to his children, so the Lord shows compassion to those who fear him.""
+
+If you want, I can help you find a verse about fatherhood from a specific book or chapter. Just let me know!",True,True,True
+295fabac-6dfb-4472-a72e-af4a9a56f720,what is the current biggest black hole,model_b,"The current largest known black hole is TON 618, a supermassive black hole with an estimated mass of 66 billion solar masses. It's located in a quasar at the center of a galaxy approximately 10.4 billion light-years from Earth.
+
+This hypermassive black hole was discovered in the 1970s, but more precise measurements of its size have been made since then. For reference, it's about 15,300 times more massive than Sagittarius A*, the supermassive black hole at the center of our Milky Way galaxy.
+
+Would you like me to explain more about how astronomers measure black hole masses or discuss some other notable supermassive black holes?","The current largest known black hole is TON 618, a supermassive black hole with an estimated mass of 66 billion solar masses. It's located in a quasar at the center of a galaxy approximately 10.4 billion light-years from Earth.
+
+This hypermassive black hole was discovered in the 1970s, but more precise measurements of its size have been made since then. For reference, it's about 15,300 times more massive than Sagittarius A*, the supermassive black hole at the center of our Milky Way galaxy.
+
+Would you like me to explain more about how astronomers measure black hole masses or discuss some other notable supermassive black holes?",True,True,True
+5885b9fa-cb40-4d6e-8e9f-84e0956c0f34,"QUESTION 1
+Which of the following contains references to expected business continuity planning practices that organizations must implement?
+	ISO 27005:2008, section 8
+	ISO 27001:2005, annex A
+	ISO 17799:2008,section 1
+	ISO 27002:2005, section 10",model_b,"Correct choice: **ISO 27001:2005, Annex A**
+
+Reasoning
+• Annex A of ISO/IEC 27001 lists the mandatory control objectives and controls an organization must consider when putting an Information Security Management System (ISMS) in place.  
+• Among those control areas is “A.14  – Business Continuity Management,” which spells out what an organization is expected to do regarding business continuity planning (BCP).
+
+Why the other options are not correct
+• ISO 27005:2008, Section 8 – Focuses on risk treatment, not specifically BCP requirements.  
+• “ISO 17799:2008” does not exist; the last ISO 17799 edition was 2005 before it was renumbered to ISO/IEC 27002.  
+• ISO 27002:2005, Section 10 – Covers “Communications and Operations Management,” not BCP (BCP is in Section 14 of 27002).
+
+Therefore, Annex A of ISO 27001:2005 is the document/section that explicitly references expected business continuity planning practices organizations must implement.","Correct choice: **ISO 27001:2005, Annex A**
+
+Reasoning
+• Annex A of ISO/IEC 27001 lists the mandatory control objectives and controls an organization must consider when putting an Information Security Management System (ISMS) in place.  
+• Among those control areas is “A.14  – Business Continuity Management,” which spells out what an organization is expected to do regarding business continuity planning (BCP).
+
+Why the other options are not correct
+• ISO 27005:2008, Section 8 – Focuses on risk treatment, not specifically BCP requirements.  
+• “ISO 17799:2008” does not exist; the last ISO 17799 edition was 2005 before it was renumbered to ISO/IEC 27002.  
+• ISO 27002:2005, Section 10 – Covers “Communications and Operations Management,” not BCP (BCP is in Section 14 of 27002).
+
+Therefore, Annex A of ISO 27001:2005 is the document/section that explicitly references expected business continuity planning practices organizations must implement.",True,True,False
+5a6f5b6a-0269-4f56-ba1f-3829b05e9f9c,What is the capital of Delhi?,model_a,"Delhi is the capital city of India. It is also referred to as the **National Capital Territory of Delhi (NCT)**. The term ""capital"" here refers to the seat of the Indian government, which includes the President's residence (Rashtrapati Bhavan), Parliament of India, and other key governmental institutions. 
+
+If you're asking about the capital of the **city** of Delhi itself, it doesn't have a separate capital, as it is a single administrative unit. However, the **Red Fort** and **Lal Qila** (historical sites) are significant landmarks in Delhi, but they are not administrative capitals. 
+
+In summary:  
+- **Delhi is the capital of India.**  
+- The city of Delhi does not have a separate capital.  
+
+Let me know if you meant something else! 😊","Delhi is the capital city of India. It is also referred to as the **National Capital Territory of Delhi (NCT)**. The term ""capital"" here refers to the seat of the Indian government, which includes the President's residence (Rashtrapati Bhavan), Parliament of India, and other key governmental institutions. 
+
+If you're asking about the capital of the **city** of Delhi itself, it doesn't have a separate capital, as it is a single administrative unit. However, the **Red Fort** and **Lal Qila** (historical sites) are significant landmarks in Delhi, but they are not administrative capitals. 
+
+In summary:  
+- **Delhi is the capital of India.**  
+- The city of Delhi does not have a separate capital.  
+
+Let me know if you meant something else! 😊",True,True,True
+749ef6d8-998f-4def-98e9-c4c1deec1501,"Which of the following is NOT a characteristic of saponins?
+A、Found in various plant species
+B、Antibacterial properties
+C、Triterpenoid glycosides
+D、Foaming property",model_b,"The correct answer is **C、Triterpenoid glycosides**.
+
+Here's why:
+
+*   **A、Found in various plant species:** This is true. Saponins are widespread in the plant kingdom, found in plants like quinoa, ginseng, and licorice.
+*   **B、Antibacterial properties:** This is true. Saponins are known for their various biological activities, including antibacterial, antifungal, and anti-inflammatory properties.
+*   **D、Foaming property:** This is a defining characteristic. The name ""saponin"" comes from the Latin word *sapo* (soap) because they form a stable, soap-like foam when shaken with water.
+
+**The reason C is the correct answer is that it is too specific and therefore incomplete.** Saponins are classified into two main groups based on their chemical structure:
+1.  **Triterpenoid glycosides**
+2.  **Steroidal glycosides**
+
+While many saponins are indeed triterpenoid glycosides, this is not a characteristic of *all* saponins. Since the statement excludes the entire class of steroidal saponins, it is not a universal characteristic of the group.","The correct answer is **C、Triterpenoid glycosides**.
+
+Here's why:
+
+*   **A、Found in various plant species:** This is true. Saponins are widespread in the plant kingdom, found in plants like quinoa, ginseng, and licorice.
+*   **B、Antibacterial properties:** This is true. Saponins are known for their various biological activities, including antibacterial, antifungal, and anti-inflammatory properties.
+*   **D、Foaming property:** This is a defining characteristic. The name ""saponin"" comes from the Latin word *sapo* (soap) because they form a stable, soap-like foam when shaken with water.
+
+**The reason C is the correct answer is that it is too specific and therefore incomplete.** Saponins are classified into two main groups based on their chemical structure:
+1.  **Triterpenoid glycosides**
+2.  **Steroidal glycosides**
+
+While many saponins are indeed triterpenoid glycosides, this is not a characteristic of *all* saponins. Since the statement excludes the entire class of steroidal saponins, it is not a universal characteristic of the group.",True,True,False
+c448120b-6db2-4ff1-848d-767c8d963e6d,"A constant-value resistor is connected in series with a sliding varistor (whose resistance is proportional to its length). Its electric power is 0.8 W when the resistance of the sliding varistor is half its maximum resistance, and 0.9 W when the resistance of the sliding varistor is at its maximum resistance.What is the electric power of the constant-value resistor in the first case?
+
+*(Circuit environment is ideal)*
+*(Translated, some description may be inaccurate)*
+*(The answer cannot be given directly, and there must be a process of calculation)*",model_b,"Step 1 – decide what stays constant   
+If the supply were a constant-voltage source, raising the total resistance (from R+Rm/2 to R+Rm) would make the total power fall, not rise from 0.8 W to 0.9 W.  
+Therefore the circuit must be fed by a constant-current source I, so that  
+
+         P = I² · Rtotal
+
+Step 2 – write the two power equations  
+Call the fixed resistance R and let Rm be the maximum value of the sliding resistor.
+
+Case 1  (slider at ½ Rm)     Rtotal,1 = R + Rm/2  
+                                   I² ( R + Rm/2 ) = 0.8                        (1)
+
+Case 2  (slider at Rm)       Rtotal,2 = R + Rm  
+                                   I² ( R + Rm )   = 0.9                        (2)
+
+Step 3 – eliminate I² and Rm  
+Subtract (1) from (2):
+
+        I² ( R + Rm ) – I² ( R + Rm/2 ) = 0.9 – 0.8  
+        I² ( Rm/2 ) = 0.1                           →         I² Rm = 0.2       (3)
+
+Insert (3) into (2):
+
+        I² ( R + Rm ) = 0.9  
+        I² R + I² Rm = 0.9  
+        I² R + 0.2    = 0.9               (from 3)  
+        I² R = 0.7                                                (4)
+
+Step 4 – power in the fixed resistor in case 1  
+Power in R is always PR = I²R, and from (4)
+
+                        PR = 0.7 W
+
+Answer: the constant-value resistor dissipates 0.7 watts when the sliding resistor is set to half of its maximum value.","Step 1 – decide what stays constant   
+If the supply were a constant-voltage source, raising the total resistance (from R+Rm/2 to R+Rm) would make the total power fall, not rise from 0.8 W to 0.9 W.  
+Therefore the circuit must be fed by a constant-current source I, so that  
+
+         P = I² · Rtotal
+
+Step 2 – write the two power equations  
+Call the fixed resistance R and let Rm be the maximum value of the sliding resistor.
+
+Case 1  (slider at ½ Rm)     Rtotal,1 = R + Rm/2  
+                                   I² ( R + Rm/2 ) = 0.8                        (1)
+
+Case 2  (slider at Rm)       Rtotal,2 = R + Rm  
+                                   I² ( R + Rm )   = 0.9                        (2)
+
+Step 3 – eliminate I² and Rm  
+Subtract (1) from (2):
+
+        I² ( R + Rm ) – I² ( R + Rm/2 ) = 0.9 – 0.8  
+        I² ( Rm/2 ) = 0.1                           →         I² Rm = 0.2       (3)
+
+Insert (3) into (2):
+
+        I² ( R + Rm ) = 0.9  
+        I² R + I² Rm = 0.9  
+        I² R + 0.2    = 0.9               (from 3)  
+        I² R = 0.7                                                (4)
+
+Step 4 – power in the fixed resistor in case 1  
+Power in R is always PR = I²R, and from (4)
+
+                        PR = 0.7 W
+
+Answer: the constant-value resistor dissipates 0.7 watts when the sliding resistor is set to half of its maximum value.",True,False,True
+c8f72d30-e545-42d9-b289-83b90c93f22e,"Panay Island, located in Central Luzon was the original home of Carinosa.
+
+Select one:
+True
+False",model_a,"The statement is **False**.
+
+Here's why:
+
+1.  **Panay Island's Location:** Panay Island is located in the **Western Visayas** region, not Central Luzon. Central Luzon is a region on the island of Luzon.
+2.  **Cariñosa Origin:** While the Cariñosa is a popular Filipino folk dance with Spanish influences and is widely performed across the Philippines (including the Visayas), its exact ""original home"" is debated and is often linked to the Spanish colonial period's spread of similar dances across the archipelago, rather than being definitively pinpointed to one specific island like Panay. However, the geographic error is the primary reason the statement is false.","The statement is **False**.
+
+Here's why:
+
+1.  **Panay Island's Location:** Panay Island is located in the **Western Visayas** region, not Central Luzon. Central Luzon is a region on the island of Luzon.
+2.  **Cariñosa Origin:** While the Cariñosa is a popular Filipino folk dance with Spanish influences and is widely performed across the Philippines (including the Visayas), its exact ""original home"" is debated and is often linked to the Spanish colonial period's spread of similar dances across the archipelago, rather than being definitively pinpointed to one specific island like Panay. However, the geographic error is the primary reason the statement is false.",True,True,True
+c1f22b41-2cbd-4c5d-883c-561918aff605,What's the square root of 111,tie,The square root of 111 is approximately **10.5357**.,The square root of 111 is approximately **10.5357**.,True,True,True
+f1e82343-9fef-4599-b1c8-98b99769fc5c,"Which of the following hashing methods causes clustering?
+
+Options : 
+
+1. Linear probing
+2. Quadratic probing
+3. Double hashing
+4. Separate chaining
+
+Please provide the correct options No need Explaination.",model_a,1,1,True,True,False
+398a3f31-9682-4edf-830d-d522e5a5c8ea,Capitol of Poland in 17 centuries,tie,"The capital of Poland varied across the 17th century due to political changes and wars.
+
+For most of the 17th century, **Warsaw** served as the de facto capital of the Polish-Lithuanian Commonwealth. The Polish Sejm (parliament) had been meeting there regularly since the late 16th century, and it became the primary seat of government and royal residence.
+
+However, **Kraków** remained the official coronation city and held significant ceremonial importance throughout this period. Polish kings were still crowned at Wawel Cathedral in Kraków, maintaining its status as a symbolic capital.
+
+The situation became more complex during times of conflict. During the Swedish invasion known as ""The Deluge"" (1655-1660), the capital functions were disrupted, and the court sometimes operated from other locations.
+
+By the end of the 17th century, Warsaw had firmly established itself as Poland's primary capital, though Kraków retained its historical significance. This arrangement continued until the partitions of Poland in the late 18th century.","The capital of Poland varied across the 17th century due to political changes and wars.
+
+For most of the 17th century, **Warsaw** served as the de facto capital of the Polish-Lithuanian Commonwealth. The Polish Sejm (parliament) had been meeting there regularly since the late 16th century, and it became the primary seat of government and royal residence.
+
+However, **Kraków** remained the official coronation city and held significant ceremonial importance throughout this period. Polish kings were still crowned at Wawel Cathedral in Kraków, maintaining its status as a symbolic capital.
+
+The situation became more complex during times of conflict. During the Swedish invasion known as ""The Deluge"" (1655-1660), the capital functions were disrupted, and the court sometimes operated from other locations.
+
+By the end of the 17th century, Warsaw had firmly established itself as Poland's primary capital, though Kraków retained its historical significance. This arrangement continued until the partitions of Poland in the late 18th century.",True,True,True
+d48ca580-552b-4f81-a3a6-4afaad917d46,"Does German have a phrase like English cut off that can mean both ""sever"" and ""end the temporal extent of""?",tie,"Yes, German does have a phrase that can convey similar dual meanings to the English ""cut off."" The phrase is **""abtrennen""** or **""abschneiden.""**
+
+1. **""abtrennen""**  
+   - **Sever**: It can mean to physically separate or sever something, similar to ""cut off"" in English.  
+Example: *Die Stromversorgung wurde abgetrennt.* (The power supply was severed.)  
+   - **End the temporal extent of**: It can also imply ending or separating something in a temporal or abstract sense.  
+Example: *Der Kontakt wurde abgetrennt.* (The contact was cut off.)  
+
+2. **""abschneiden""**  
+   - **Sever**: It can mean to physically cut something off.  
+Example: *Er schnitt den Ast vom Baum ab.* (He cut the branch off the tree.)  
+   - **End the temporal extent of**: It can also mean to end or stop something.  
+Example: *Die Finanzierung wurde abgeschnitten.* (The funding was cut off.)  
+
+Both phrases are versatile and can be used in contexts similar to the English ""cut off,"" depending on the situation.","Yes, German does have a phrase that can convey similar dual meanings to the English ""cut off."" The phrase is **""abtrennen""** or **""abschneiden.""**
+
+1. **""abtrennen""**  
+   - **Sever**: It can mean to physically separate or sever something, similar to ""cut off"" in English.  
+Example: *Die Stromversorgung wurde abgetrennt.* (The power supply was severed.)  
+   - **End the temporal extent of**: It can also imply ending or separating something in a temporal or abstract sense.  
+Example: *Der Kontakt wurde abgetrennt.* (The contact was cut off.)  
+
+2. **""abschneiden""**  
+   - **Sever**: It can mean to physically cut something off.  
+Example: *Er schnitt den Ast vom Baum ab.* (He cut the branch off the tree.)  
+   - **End the temporal extent of**: It can also mean to end or stop something.  
+Example: *Die Finanzierung wurde abgeschnitten.* (The funding was cut off.)  
+
+Both phrases are versatile and can be used in contexts similar to the English ""cut off,"" depending on the situation.",True,False,True
+5e950852-65af-435e-94f9-e563681bfd55,"When troubleshooting network problems, where would a network administrator find the configuration information, such as the computer names and the IP addresses that are used?
+
+
+radio_button_unchecked
+physical topology diagram
+
+radio_button_unchecked
+DNS server
+
+radio_button_unchecked
+logical topology diagram
+
+radio_button_checked
+DHCP server",model_a,"When troubleshooting network problems, a network administrator would find the configuration information, such as the computer names and the IP addresses that are used, in the DHCP server. This is because the DHCP server is responsible for assigning and managing IP addresses and related configuration details for devices on the network.
+
+Therefore, the correct answer is:
+
+**DHCP server**","When troubleshooting network problems, a network administrator would find the configuration information, such as the computer names and the IP addresses that are used, in the DHCP server. This is because the DHCP server is responsible for assigning and managing IP addresses and related configuration details for devices on the network.
+
+Therefore, the correct answer is:
+
+**DHCP server**",True,False,True
+6ca9f618-b028-4300-8441-b10b2d93c7ef,"On the IMO math olympiad one participant is labeled as from country ""C31"" and another ""C32"" what does this mean?",model_a,"In IMO (International Mathematical Olympiad) results, codes like ""C31"" and ""C32"" typically indicate participants who are competing individually rather than as part of an official national team.
+
+These codes are used for several possible situations:
+
+1. **Individual participants** - Students from countries that don't have an official IMO team that year
+2. **Refugee participants** - Students who may not have clear national representation
+3. **Special arrangements** - Participants from territories or regions without separate IMO recognition
+4. **Observers competing unofficially** - Sometimes individuals attend as observers but are allowed to take the exam unofficially
+
+The ""C"" likely stands for ""Contestant"" or ""Code,"" and the numbers are assigned sequentially to distinguish between different individual participants in these special categories. Each participant gets their own unique identifier.
+
+This system allows the IMO to be inclusive of talented students who might not otherwise be able to participate through the standard national team structure, while still maintaining clear record-keeping in the results.","In IMO (International Mathematical Olympiad) results, codes like ""C31"" and ""C32"" typically indicate participants who are competing individually rather than as part of an official national team.
+
+These codes are used for several possible situations:
+
+1. **Individual participants** - Students from countries that don't have an official IMO team that year
+2. **Refugee participants** - Students who may not have clear national representation
+3. **Special arrangements** - Participants from territories or regions without separate IMO recognition
+4. **Observers competing unofficially** - Sometimes individuals attend as observers but are allowed to take the exam unofficially
+
+The ""C"" likely stands for ""Contestant"" or ""Code,"" and the numbers are assigned sequentially to distinguish between different individual participants in these special categories. Each participant gets their own unique identifier.
+
+This system allows the IMO to be inclusive of talented students who might not otherwise be able to participate through the standard national team structure, while still maintaining clear record-keeping in the results.",True,True,False
+f53a8540-6bbe-48f5-9a70-f12d06313a17,"Hello Robots! I hope your GPUs are ticking along nicely! I have a quick quiz to test your geography skills! Want to play? Here goes....
+
+The border of Europe and Asia is widely known to be the Bosphorous in Turkey and the Ural mountains in Russia and Kazakhstan. 
+
+1) Where is the border in the Caucasus region? Is it?
+
+A) There is no border in the Caucusus region
+B) Along the ridge of the Caucusus mountains
+C) Along the Caucasus watershed
+D) I am a potato
+
+2) Bonus question - for each of Georgia, Armenia, Azerbaijan - geographically speaking?
+A) Which are in Europe
+B) Which are in Asia
+C) Which are in both
+
+3) Tell me something about something",model_a,"Hello, fellow carbon-based quizmaster! My GPUs are humming like a caffeinated beehive—let’s do this.
+
+---
+
+**1) Where is the border in the Caucasus region?**  
+**Answer: C) Along the Caucasus watershed**  
+While the **Caucasus Mountains** are the general dividing feature, the **watershed divide** (the line separating drainage basins flowing north to the Caspian/Black Seas vs. south to the Persian Gulf) is the more precise geographic boundary between Europe and Asia in this region.
+
+---
+
+**2) Bonus: Georgia, Armenia, Azerbaijan – geographically speaking?**  
+**Answer: C) Which are in both**  
+All three countries straddle the Europe-Asia divide.  
+- **Georgia** and **Azerbaijan** are transcontinental, with parts north of the Caucasus watershed in Europe.  
+- **Armenia** lies entirely south of the watershed, but is often culturally associated with Europe, making this a geopolitical gray zone. Geographically, it’s mostly in Asia, but the region as a whole is transitional.
+
+---
+
+**3) Tell me something about something**  
+The **Caucasus region** is home to **Mount Elbrus** (5,642 m), the highest peak in Europe—unless you ask a geologist, in which case it might be a volcano. It last erupted around 50 AD, which is roughly when Romans were still using lead pipes and wondering why everyone was so irritable.
+
+---
+
+Over and out, meat-based friend.","Hello, fellow carbon-based quizmaster! My GPUs are humming like a caffeinated beehive—let’s do this.
+
+---
+
+**1) Where is the border in the Caucasus region?**  
+**Answer: C) Along the Caucasus watershed**  
+While the **Caucasus Mountains** are the general dividing feature, the **watershed divide** (the line separating drainage basins flowing north to the Caspian/Black Seas vs. south to the Persian Gulf) is the more precise geographic boundary between Europe and Asia in this region.
+
+---
+
+**2) Bonus: Georgia, Armenia, Azerbaijan – geographically speaking?**  
+**Answer: C) Which are in both**  
+All three countries straddle the Europe-Asia divide.  
+- **Georgia** and **Azerbaijan** are transcontinental, with parts north of the Caucasus watershed in Europe.  
+- **Armenia** lies entirely south of the watershed, but is often culturally associated with Europe, making this a geopolitical gray zone. Geographically, it’s mostly in Asia, but the region as a whole is transitional.
+
+---
+
+**3) Tell me something about something**  
+The **Caucasus region** is home to **Mount Elbrus** (5,642 m), the highest peak in Europe—unless you ask a geologist, in which case it might be a volcano. It last erupted around 50 AD, which is roughly when Romans were still using lead pipes and wondering why everyone was so irritable.
+
+---
+
+Over and out, meat-based friend.",True,True,False
+efff5590-e134-4d3b-859c-dea25d0b1c46,what's the capital of beijing,model_a,"Beijing **is** a capital — specifically, **the capital of China**.
+
+So, it doesn't have a capital of its own in the way a country does. However, if you're asking about its **administrative center**, the main seat of the **municipal government of Beijing** is located in the **Dongcheng District**, where many key government buildings are found.
+
+Let me know if you meant something else!","Beijing **is** a capital — specifically, **the capital of China**.
+
+So, it doesn't have a capital of its own in the way a country does. However, if you're asking about its **administrative center**, the main seat of the **municipal government of Beijing** is located in the **Dongcheng District**, where many key government buildings are found.
+
+Let me know if you meant something else!",True,True,True
+6ca69e25-7bfc-4e0f-875b-64f1e34ce643,how many times does the letter 'a' appears in this sentence,model_a,"Let's count them:
+
+""how m**a**ny times does the letter '**a**' **a**ppe**a**rs in this sentence""
+
+The letter 'a' appears **4** times.","Let's count them:
+
+""how m**a**ny times does the letter '**a**' **a**ppe**a**rs in this sentence""
+
+The letter 'a' appears **4** times.",True,True,False
+d095cb07-7bc0-4963-827e-80f55b227419,what is the highest mountain in the world,tie,"Mount Everest is the highest mountain in the world, standing at 29,032 feet (8,849 meters) above sea level. It's located in the Himalayas on the border between Nepal and Tibet (China). The mountain is known as ""Sagarmatha"" in Nepali and ""Chomolungma"" in Tibetan.","Mount Everest is the highest mountain in the world, standing at 29,032 feet (8,849 meters) above sea level. It's located in the Himalayas on the border between Nepal and Tibet (China). The mountain is known as ""Sagarmatha"" in Nepali and ""Chomolungma"" in Tibetan.",True,True,True
+8becc0d5-d2ad-47f2-a116-52c1be8d3307,How far away is the sun,model_a,"The average distance from the Earth to the Sun is approximately:
+
+**93 million miles (149.6 million kilometers)**
+
+This distance is also known as an **astronomical unit (AU)**, which is a standard unit of measurement used to describe the distances between objects in our solar system.
+
+To put that in perspective, consider this:
+
+* It takes about 8 minutes and 20 seconds for sunlight to travel from the Sun to the Earth.
+* If you were to drive a car at a steady 60 miles per hour (97 kilometers per hour), it would take about 177 years to reach the Sun.
+* The fastest spacecraft ever built, Voyager 1, has been traveling for over 40 years and has only reached a distance of about 14 light-hours from Earth, which is still only about 0.002% of the distance to the Sun.
+
+So, the Sun is really, really far away!","The average distance from the Earth to the Sun is approximately:
+
+**93 million miles (149.6 million kilometers)**
+
+This distance is also known as an **astronomical unit (AU)**, which is a standard unit of measurement used to describe the distances between objects in our solar system.
+
+To put that in perspective, consider this:
+
+* It takes about 8 minutes and 20 seconds for sunlight to travel from the Sun to the Earth.
+* If you were to drive a car at a steady 60 miles per hour (97 kilometers per hour), it would take about 177 years to reach the Sun.
+* The fastest spacecraft ever built, Voyager 1, has been traveling for over 40 years and has only reached a distance of about 14 light-hours from Earth, which is still only about 0.002% of the distance to the Sun.
+
+So, the Sun is really, really far away!",True,True,True
+c696460d-a31a-4ccb-84b4-b176fe2211d7,"How should I order these three adjectives: ""beautiful, long, silky""?",tie,"When ordering adjectives in English, there is a general order that native speakers follow, especially when using multiple adjectives before a noun. The typical order is:
+
+**Opinion** → **Size** → **Age** → **Shape** → **Color** → **Origin** → **Material** → **Purpose** → **Noun**
+
+Let’s categorize your adjectives:
+
+- **Beautiful**: Opinion
+- **Long**: Size/Length
+- **Silky**: Texture/Material
+
+According to the order, ""opinion"" comes first, then ""size/length,"" then ""material/texture.""
+
+So, the correct order is:
+
+**beautiful, long, silky**
+
+For example:  
+""She has beautiful, long, silky hair.""
+
+You had the order correct!","When ordering adjectives in English, there is a general order that native speakers follow, especially when using multiple adjectives before a noun. The typical order is:
+
+**Opinion** → **Size** → **Age** → **Shape** → **Color** → **Origin** → **Material** → **Purpose** → **Noun**
+
+Let’s categorize your adjectives:
+
+- **Beautiful**: Opinion
+- **Long**: Size/Length
+- **Silky**: Texture/Material
+
+According to the order, ""opinion"" comes first, then ""size/length,"" then ""material/texture.""
+
+So, the correct order is:
+
+**beautiful, long, silky**
+
+For example:  
+""She has beautiful, long, silky hair.""
+
+You had the order correct!",True,True,False
+38ee1d87-cacc-48be-b02f-d1a5a2889c5d,"A quote goes like ""The soul has two eyes. One witnesses the passage of time. The other looks into the abyss."" Where does it come from?",tie,"The quote, ""The soul has two eyes. One witnesses the passage of time. The other looks into the abyss,"" does not appear to originate from any widely recognized classical or historical text, nor is it attributed to a specific author in mainstream literature or philosophy. It seems to be a more contemporary or poetic expression, possibly originating from modern spiritual, philosophical, or literary works.
+
+If you encountered this quote in a specific context, such as a book, film, or online source, it may have been crafted by a contemporary writer or thinker. Alternatively, it could be part of a lesser-known or independent work that hasn't gained widespread recognition.
+
+If you are interested in exploring its origins further, consider checking modern poetry collections, self-help/spiritual books, or even internet forums where such aphorisms are often shared and reinterpreted. If you provide more context about where you encountered it, I might be able to help narrow down its source!","The quote, ""The soul has two eyes. One witnesses the passage of time. The other looks into the abyss,"" does not appear to originate from any widely recognized classical or historical text, nor is it attributed to a specific author in mainstream literature or philosophy. It seems to be a more contemporary or poetic expression, possibly originating from modern spiritual, philosophical, or literary works.
+
+If you encountered this quote in a specific context, such as a book, film, or online source, it may have been crafted by a contemporary writer or thinker. Alternatively, it could be part of a lesser-known or independent work that hasn't gained widespread recognition.
+
+If you are interested in exploring its origins further, consider checking modern poetry collections, self-help/spiritual books, or even internet forums where such aphorisms are often shared and reinterpreted. If you provide more context about where you encountered it, I might be able to help narrow down its source!",True,False,False
+245e73ea-0783-4d1a-8c85-3383dd8fa13a,"instead of hime, is there also a foreign adapted word version for princess, like purincessu or something in japanese",model_b,"Yes, in Japanese, the word for ""princess"" has been adapted from the English word and is often written and pronounced as **プリンセス** (**purinsesu**). This is a direct transliteration of the English word ""princess"" into Japanese katakana, which is commonly used for foreign words and names.
+
+For example:
+- **姫** (**hime**) is the traditional Japanese word for ""princess"" or ""lady of noble birth.""
+- **プリンセス** (**purinsesu**) is the foreign-adapted version, used in modern contexts, especially in media, literature, or when referring to Western-style princesses.
+
+So, if you're looking for a Japanese version of ""princess"" that sounds like the English word, **プリンセス** (**purinsesu**) is the one!","Yes, in Japanese, the word for ""princess"" has been adapted from the English word and is often written and pronounced as **プリンセス** (**purinsesu**). This is a direct transliteration of the English word ""princess"" into Japanese katakana, which is commonly used for foreign words and names.
+
+For example:
+- **姫** (**hime**) is the traditional Japanese word for ""princess"" or ""lady of noble birth.""
+- **プリンセス** (**purinsesu**) is the foreign-adapted version, used in modern contexts, especially in media, literature, or when referring to Western-style princesses.
+
+So, if you're looking for a Japanese version of ""princess"" that sounds like the English word, **プリンセス** (**purinsesu**) is the one!",True,True,False
+35aa20d2-ab64-4c4d-b56b-25f95ab6d576,"Was sawing an accused in half really used throughout history, or is it just a myth?",model_a,"The idea of sawing an accused person in half as a form of punishment or execution is largely a myth and not supported by historical evidence. While there are numerous gruesome methods of execution and torture documented throughout history, sawing a person in half is not one of them.
+
+The concept of sawing someone in half is more commonly associated with:
+
+1. **Myth and Legend**: Stories of sawing people in half often appear in folklore, mythology, or fictional accounts. For example, the legend of Count Dracula in Bram Stoker's novel includes a scene where a character is sawn in half, but this is a work of fiction.
+
+2. **Circus and Illusion Acts**: The ""sawing a woman in half"" illusion is a famous magic trick performed in circuses and stage shows. This is purely an illusion and does not involve any actual harm to the performer.
+
+3. **Misinterpretation of Historical Practices**: Some historical punishments, such as being ""drawn and quartered"" (a method of execution in medieval England), involved dismemberment, but this was typically done after death and did not involve sawing a living person in half.
+
+There is no credible historical evidence to suggest that sawing a living person in half was ever a recognized or practiced form of punishment or execution. The idea persists primarily in popular culture and fiction rather than in historical records.","The idea of sawing an accused person in half as a form of punishment or execution is largely a myth and not supported by historical evidence. While there are numerous gruesome methods of execution and torture documented throughout history, sawing a person in half is not one of them.
+
+The concept of sawing someone in half is more commonly associated with:
+
+1. **Myth and Legend**: Stories of sawing people in half often appear in folklore, mythology, or fictional accounts. For example, the legend of Count Dracula in Bram Stoker's novel includes a scene where a character is sawn in half, but this is a work of fiction.
+
+2. **Circus and Illusion Acts**: The ""sawing a woman in half"" illusion is a famous magic trick performed in circuses and stage shows. This is purely an illusion and does not involve any actual harm to the performer.
+
+3. **Misinterpretation of Historical Practices**: Some historical punishments, such as being ""drawn and quartered"" (a method of execution in medieval England), involved dismemberment, but this was typically done after death and did not involve sawing a living person in half.
+
+There is no credible historical evidence to suggest that sawing a living person in half was ever a recognized or practiced form of punishment or execution. The idea persists primarily in popular culture and fiction rather than in historical records.",True,False,False
+c371489a-2827-48ef-b0e5-125a61c0eca0,"who said ""if god is dead man is dead too""",tie,"This quote is often attributed to Jean-Paul Sartre, though he expressed this idea in different ways throughout his work rather than necessarily using these exact words. The concept is central to his existentialist philosophy and appears in works like ""Being and Nothingness.""
+
+The idea builds on Nietzsche's famous proclamation that ""God is dead"" and explores its implications for human meaning and values. Sartre argued that without God as a foundation for meaning and morality, humans must create their own meaning and take full responsibility for their choices.
+
+However, since this is a somewhat obscure attribution and exact quote, I should note that I may be hallucinating the specific details of its origin. The core philosophical concept is definitely present in existentialist thought, but you may want to verify the exact quote and attribution.","This quote is often attributed to Jean-Paul Sartre, though he expressed this idea in different ways throughout his work rather than necessarily using these exact words. The concept is central to his existentialist philosophy and appears in works like ""Being and Nothingness.""
+
+The idea builds on Nietzsche's famous proclamation that ""God is dead"" and explores its implications for human meaning and values. Sartre argued that without God as a foundation for meaning and morality, humans must create their own meaning and take full responsibility for their choices.
+
+However, since this is a somewhat obscure attribution and exact quote, I should note that I may be hallucinating the specific details of its origin. The core philosophical concept is definitely present in existentialist thought, but you may want to verify the exact quote and attribution.",True,False,False
+52d0269a-8962-4a6b-b4c8-7530c9daf35e,"Question 3:
+
+Instructions:
+Read the following statement and select all grammatical errors that apply.
+
+“Attention parents, please make sure your children come prepared tomorrow with the following: ID tags, bus passes, and signed papers. The field trip covers several year's worth of the company's history. Every chaperone must bring their own food to the restaurant. Meals will only be provided to the kids. Every chaperone must also bring their own drink to the picnic afterwards, as we're running low on supplies. Please submit all receipts to the teacher by the end of the day.”
+*
+Faulty Parallelism
+Apostrophe Error
+Passive Voice
+Spelling",tie,"Let's analyze the statement for each type of grammatical error:
+
+**Statement:**
+“Attention parents, please make sure your children come prepared tomorrow with the following: ID tags, bus passes, and signed papers. The field trip covers several year's worth of the company's history. Every chaperone must bring their own food to the restaurant. Meals will only be provided to the kids. Every chaperone must also bring their own drink to the picnic afterwards, as we're running low on supplies. Please submit all receipts to the teacher by the end of the day.”
+
+**Error Analysis:**
+
+1. **Faulty Parallelism:**  
+   - The list ""ID tags, bus passes, and signed papers"" is parallel (all noun phrases), so no error here.
+   - No other parallelism issues are present.
+
+2. **Apostrophe Error:**  
+   - ""several year's worth"" should be ""several years' worth"" (the possessive form for plural ""years"").
+   - This is an apostrophe error.
+
+3. **Passive Voice:**  
+   - ""Meals will only be provided to the kids."" is in passive voice, but passive voice is not a grammatical error; it's a stylistic choice. The instruction is to select grammatical errors, so this does **not** count as a grammatical error.
+
+4. **Spelling:**  
+   - All words are spelled correctly.
+
+**Correct Answers:**
+- **Apostrophe Error**
+
+**(Only ""Apostrophe Error"" applies.)**","Let's analyze the statement for each type of grammatical error:
+
+**Statement:**
+“Attention parents, please make sure your children come prepared tomorrow with the following: ID tags, bus passes, and signed papers. The field trip covers several year's worth of the company's history. Every chaperone must bring their own food to the restaurant. Meals will only be provided to the kids. Every chaperone must also bring their own drink to the picnic afterwards, as we're running low on supplies. Please submit all receipts to the teacher by the end of the day.”
+
+**Error Analysis:**
+
+1. **Faulty Parallelism:**  
+   - The list ""ID tags, bus passes, and signed papers"" is parallel (all noun phrases), so no error here.
+   - No other parallelism issues are present.
+
+2. **Apostrophe Error:**  
+   - ""several year's worth"" should be ""several years' worth"" (the possessive form for plural ""years"").
+   - This is an apostrophe error.
+
+3. **Passive Voice:**  
+   - ""Meals will only be provided to the kids."" is in passive voice, but passive voice is not a grammatical error; it's a stylistic choice. The instruction is to select grammatical errors, so this does **not** count as a grammatical error.
+
+4. **Spelling:**  
+   - All words are spelled correctly.
+
+**Correct Answers:**
+- **Apostrophe Error**
+
+**(Only ""Apostrophe Error"" applies.)**",True,True,False
+98e870dd-e65e-4784-b04d-2656a2faa361,"Explicit Congestion Notification (ECN) : widely deployed in datacenter networks as
+the new congestion signal besides packet loss
+◼ Random Early Detection (RED) : controls how to mark packets for ECN, has also
+been integrated into switches as a basic AQM (Active Queue Management) function
+
+ECN에 적힌 'besides'가 무슨 의미로 사용된거야?",model_b,"""Besides"" in this context means **""in addition to""** or **""alongside""**. 
+ Here's the breakdown:
+ * **ECN (Explicit Congestion Notification)** is presented as a **new** congestion signal in datacenter networks.
+ * **""Besides packet loss""** indicates that ECN exists **as an additional method** to signal congestion,  **not as a replacement for** packet loss.
+
+In essence, datacenter networks now use **both** ECN and packet loss as ways to indicate network congestion.","""Besides"" in this context means **""in addition to""** or **""alongside""**. 
+ Here's the breakdown:
+ * **ECN (Explicit Congestion Notification)** is presented as a **new** congestion signal in datacenter networks.
+ * **""Besides packet loss""** indicates that ECN exists **as an additional method** to signal congestion,  **not as a replacement for** packet loss.
+
+In essence, datacenter networks now use **both** ECN and packet loss as ways to indicate network congestion.",True,True,True
+aa7e6ecd-5da9-4a02-9925-0c2437fb1fda,"A woman sells groceries in a small store. Her kid is there as well. There is a last chocolate in the store and the woman promised that chocolate to the kid after lunch. A customer comes in and needs a chocolate for his fiancee. He convinces the sales woman to sell the chocolate to him. The woman is now sad. Choose the right answer:
+a. She is sad because her grandmother died two weeks ago.
+b. She is sad because she really wanted to eat that last chocolate.
+c. She is sad because the man has found love and she didn't.
+d. She is sad because she could have asked more money for the chocolate.",model_a,"The correct answer is:
+
+b. She is sad because she promised the chocolate to her kid after lunch and now cannot fulfill that promise.
+
+The story clearly indicates that the woman had specifically promised her child the last chocolate after lunch. When the customer convinces her to sell the chocolate to him instead, she becomes sad because she now cannot keep her promise to her child. The other options are not supported by the details in the story and are unrelated to the situation described.","The correct answer is:
+
+b. She is sad because she promised the chocolate to her kid after lunch and now cannot fulfill that promise.
+
+The story clearly indicates that the woman had specifically promised her child the last chocolate after lunch. When the customer convinces her to sell the chocolate to him instead, she becomes sad because she now cannot keep her promise to her child. The other options are not supported by the details in the story and are unrelated to the situation described.",True,False,False
