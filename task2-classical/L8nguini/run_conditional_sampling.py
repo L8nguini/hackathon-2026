@@ -24,7 +24,7 @@ import re
 import math
 from collections import Counter
 
-DATA_DIR = "/Users/hanna/.cache/kagglehub/datasets/crainbramp/steam-dataset-2025-multi-modal-gaming-analytics/versions/1/steam_dataset_2025_csv_package_v1/steam_dataset_2025_csv"
+DATA_DIR = "../steam-dataset-2025-multi-modal-gaming-analytics/versions/1/steam_dataset_2025_csv_package_v1/steam_dataset_2025_csv"
 ARCHETYPES_CSV = "gamer_archetypes.csv"
 OUTPUT_PROFILES_JSON = "gamer_profiles.json"
 OUTPUT_PROFILES_JS = "gamer_profiles.js"
